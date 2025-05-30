@@ -1,17 +1,4 @@
 //your JS code here. If required.
-/**
- * ALPHABETICAL ARTICLE SORTER
- *
- * This script sorts a list of band names alphabetically while ignoring articles
- * (a, an, the) at the beginning of names. It then displays the sorted list in the DOM.
- *
- * Concepts demonstrated:
- * - Array manipulation with sort() method
- * - Regular expressions for string replacement
- * - DOM manipulation
- * - Arrow functions
- * - Template literals
- */
 
 // Array of band names to be sorted
 const bands = [
